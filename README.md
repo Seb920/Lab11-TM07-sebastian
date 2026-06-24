@@ -1,6 +1,7 @@
 # Lab11-TM07-sebastian
 
 actividades 
+
 <img width="613" height="826" alt="Captura de pantalla 2026-06-23 224803" src="https://github.com/user-attachments/assets/3e926a09-ef97-49ad-9db4-fc75e4ebd993" />
 
 
