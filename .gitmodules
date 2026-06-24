@@ -1,0 +1,6 @@
+[submodule "smartreply_actividades"]
+	path = smartreply_actividades
+	url = https://github.com/Seb920/smartreply_actividades.git
+[submodule "barcodescanner_ejercicio1"]
+	path = barcodescanner_ejercicio1
+	url = https://github.com/Seb920/barcodescanner_ejercicio1.git
